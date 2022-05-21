@@ -9,6 +9,9 @@ It may be used to get code out raw through PyArmor (even the newest one) by dump
 Supports python 3.7 - 3.10.4 (and 3.6 but not tested)
 
 ## How to use
-Make a file named executecode in the same directory as the compiled DLL, and put your code in the file. Then inject the dll and it would run if the code is correct
+Make a file named executecode.py in the same directory as the compiled DLL, and put your code in the file. Then inject the dll and it would run if the code is correct
 
 Example code: print("i printed this") - this would print 'i printed this' inside the window if its a console window.
+
+## Example
+Video soon!a
